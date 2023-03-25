@@ -1,0 +1,1 @@
+from SimpleSingleton import grameen_phone
