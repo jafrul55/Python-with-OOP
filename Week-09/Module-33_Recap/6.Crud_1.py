@@ -1,4 +1,5 @@
-#Flask CRUD Operations using Query
+# CRUD Operations using Flask-Part_1
+#CRUD Mean = CREATE READ UPDATE DELETE
 from flask import Flask, jsonify,request
 
 app = Flask(__name__)
